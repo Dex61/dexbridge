@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39748631784",
+    "project_id": "dexbridge-ca619",
+    "storage_bucket": "dexbridge-ca619.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39748631784:android:1603458d7960086b7a5d5d",
+        "android_client_info": {
+          "package_name": "com.dexbridge.techhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOpXzrqxrE5illSZbFX41TCXziXeopSAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
